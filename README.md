@@ -39,7 +39,7 @@ The dashboard provides:
 ---
 
 ## 🗂️ Category Guide
-![Category Guide](./category_guide.png)
+![Category Guide](https://github.com/mittaldevansh/Excel/blob/main/Structured.jpeg)
 
 ---
 
