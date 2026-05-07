@@ -44,12 +44,12 @@ The dashboard provides:
 ---
 
 ## 👥 Customer Summary
-![Customer Summary](./customer_summary.png)
+![Customer Summary](https://github.com/mittaldevansh/Excel/blob/main/Data.jpeg)
 
 ---
 
 ## 💳 Customer Transaction Analysis
-![Customer Transaction](./customer_transaction.png)
+![Customer Transaction](https://github.com/mittaldevansh/Excel/blob/main/Structuring.jpeg)
 
 ---
 
