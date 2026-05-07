@@ -34,7 +34,7 @@ The dashboard provides:
 # 📸 Project Screenshots
 
 ## 📊 Main Dashboard
-![Dashboard](./Dashboard.png)
+![Dashboard](https://github.com/mittaldevansh/Excel/blob/main/Graphical%20Presentation.jpeg)
 
 ---
 
